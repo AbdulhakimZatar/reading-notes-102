@@ -23,6 +23,7 @@ Preview:
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+**There is more examples check the end of the page.**
 
 ### Why Markdown?
 Many technical writers find lots of benefits in using Markdown for their documentation. Some of these benefits are:
