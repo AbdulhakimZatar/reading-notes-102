@@ -8,7 +8,7 @@ Many technical writers find lots of benefits in using Markdown for their documen
 * You can read Markdown easily in plain text before rendered by HTML.
 
 ### Examples
-1-Text:
+1-Text and links:
 
 Code:
 ```
