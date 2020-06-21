@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## What is Markdown?
+Markdown is a way to style text on the web. You control the display of the document.
+It is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
-You can use the [editor on GitHub](https://github.com/AbdulhakimZatar/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Examples
+1-Text:
+Code:
 ```
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+```
+Preview:
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2-Images:
+Code:
+```
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+Preview:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AbdulhakimZatar/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Why Markdown?
+Many technical writers find lots of benefits in using Markdown for their documentation. Some of these benefits are:
+Markdown provides semantic meaning for content in a relatively simple way
+You can write rich formatted content extremely quickly (compared to writing directly in HTML tags)
+You can read Markdown easily in plain text before rendered by HTML
+It doesn’t interrupt your workflow with the need to click buttons
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Want to learn more?
+You can learn more about Markdown just [click here](https://guides.github.com/features/mastering-markdown/).
