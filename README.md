@@ -27,10 +27,10 @@ Preview:
 
 ### Why Markdown?
 Many technical writers find lots of benefits in using Markdown for their documentation. Some of these benefits are:
-Markdown provides semantic meaning for content in a relatively simple way
-You can write rich formatted content extremely quickly (compared to writing directly in HTML tags)
-You can read Markdown easily in plain text before rendered by HTML
-It doesn’t interrupt your workflow with the need to click buttons
+* Markdown provides semantic meaning for content in a relatively simple way
+* You can write rich formatted content extremely quickly (compared to writing directly in HTML tags)
+* You can read Markdown easily in plain text before rendered by HTML
+* It doesn’t interrupt your workflow with the need to click buttons
 
 ### Want to learn more?
 You can learn more about Markdown just [click here](https://guides.github.com/features/mastering-markdown/).
