@@ -1,6 +1,11 @@
 ## What is Markdown?
-Markdown is a way to style text on the web. You control the display of the document.
-It is just regular text with a few non-alphabetic characters thrown in, like # or *.
+Markdown is a way to build a website in easy way just using some non-alphabetic characters thrown in, like # or *.
+
+### Why Markdown?
+Many technical writers find lots of benefits in using Markdown for their documentation. Some of these benefits are:
+* Markdown provides semantic meaning for content in a relatively simple way.
+* You can write rich formatted content extremely quickly.
+* You can read Markdown easily in plain text before rendered by HTML.
 
 ### Examples
 1-Text:
@@ -17,20 +22,13 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 
 Code:
 ```
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of a car](http://www.pngmart.com/files/10/Kia-Car-PNG-Transparent-Image.png)
 ```
 Preview:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of a car](http://www.pngmart.com/files/10/Kia-Car-PNG-Transparent-Image.png)
 
 **There is more examples check the end of the page.**
-
-### Why Markdown?
-Many technical writers find lots of benefits in using Markdown for their documentation. Some of these benefits are:
-* Markdown provides semantic meaning for content in a relatively simple way
-* You can write rich formatted content extremely quickly (compared to writing directly in HTML tags)
-* You can read Markdown easily in plain text before rendered by HTML
-* It doesn’t interrupt your workflow with the need to click buttons
 
 ### Want to learn more?
 You can learn more about Markdown just [click here](https://guides.github.com/features/mastering-markdown/).
