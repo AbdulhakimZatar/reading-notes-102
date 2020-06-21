@@ -1,4 +1,4 @@
-## What is Markdown?
+### What is Markdown?
 Markdown is a way to build a website in easy way just using some non-alphabetic characters thrown in, like # or *.
 
 ### Why Markdown?
