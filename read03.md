@@ -29,13 +29,13 @@ http://git-scm.com/download/win
 ## Important Commands
 
 create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
-> git clone https://github.com/test
+```git clone https://github.com/test```
 
 Track one file only by using the following format:
-> git add filename
+```git add filename```
 
 ommit the changes and record what you did within the commit message:
-> git commit -m “made change x,y,z”
+```git commit -m “made change x,y,z”```
 
 push changes to a remote repository.
-> git push origin master
+```git push origin master```
