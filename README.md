@@ -10,7 +10,7 @@ I'm 24 years old, I have bachelor in civil engineering from MEU.**
 ## Table of Contents:
 
 | \# |          Page           | 
-| -- |:-----------------------:|
+| -- |------------------------:|
 | 1  | [Growth mindset](lab01b)|
 | 2  | [Markdown](read01)      |
 | 3  | [Text editor](read02)   |
