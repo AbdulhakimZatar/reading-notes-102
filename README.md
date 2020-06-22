@@ -8,10 +8,13 @@ I'm 24 years old, I have bachelor in civil engineering from MEU.**
 
 
 ## Table of Contents:
-* [Growth mindset](lab01b)
-* [Markdown](read01)
-* [Text editor](read02)
-* [Git intro](read03)
+
+| \# |          Page           | 
+| -- |:-----------------------:|
+| 1  | [Growth mindset](lab01b)|
+| 2  | [Markdown](read01)      |
+| 3  | [Text editor](read02)   |
+| 4  | [Git intro](read03)     |
 
 
 ## Contact info:
