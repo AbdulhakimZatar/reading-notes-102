@@ -30,6 +30,7 @@
 2- hex codes.
 
 3- Color names.
+
 ![excolor](img/ex_colors.png)
 
 ### Contrast
