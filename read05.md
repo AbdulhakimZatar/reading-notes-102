@@ -1,4 +1,4 @@
-#CSS
+# CSS
 
 
 ## Intordaction to CSS
@@ -10,7 +10,9 @@
 
 ### Why to use CSS?
 1- CSS saves time.
+
 2- Page load faster.
+
 3- Superior styles to HTML.
 
 ### Exapmle for CSS with HTML
@@ -24,11 +26,13 @@
 
 ### How to use colors in CSS?
 1- rgb values.
+
 2- hex codes.
+
 3- Color names.
 ![excolor](img/ex_colors.png)
 
 ### Contrast
 It is important to ensure that there is enough contrast
-between any text and the background color 
+between any text and the background color.
 
