@@ -16,6 +16,7 @@ I'm 24 years old, I have bachelor in civil engineering from MEU.**
 3 | [Text editor](read02)
 4 | [Git intro](read03)
 5 | [HTML](read04)
+6 | [CSS](read05)
 
 ## Contact info:
 Email me **Hakimzatar@gmail.com**.
