@@ -18,6 +18,7 @@ I'm 24 years old, I have bachelor in civil engineering from MEU.**
 5 | [HTML](read04)
 6 | [CSS](read05)
 7 | [How Computers Work?](read06)
+8 | [JavaScript](read07)
 
 ## Contact info:
 Email me **Hakimzatar@gmail.com**.
